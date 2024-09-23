@@ -60,3 +60,24 @@ The Android APK can be downloaded and installed on your device:
 - **Error Handling**: Comprehensive error handling and logging are implemented to provide secure, efficient operations.
 
 ---
+
+## Demo Credentials for testing
+
+- **Web Dashboard**
+
+Admin credentials :
+- User ID : ccptestservice@gmail.com
+- Password : demoadmin
+
+- **Android App**
+
+Credentials Project Manager:
+- User ID: EID01@conifer.app
+- Password: password@conifer
+
+Credentials staff:
+- User ID: EID03@conifer.app 
+- Password: password@conifer
+
+ Note:
+1. Username and password are case sensitive.
