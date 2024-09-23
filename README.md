@@ -42,10 +42,9 @@ A comprehensive web and mobile solution designed for small and medium-sized ente
 
 ### Web Dashboard
 The web dashboard is hosted and accessible via the following link:
+
+[**Access Web Dashboard**](https://conifer-admin-test.netlify.app/)
 Note: web dashboard needs to be refreshed once after logging in for the first time.
-
-[**Access Web Dashboard**]([https://your-dashboard-url.com](https://conifer-admin-test.netlify.app/))
-
 
 ### Android App
 The Android APK can be downloaded and installed on your device:
