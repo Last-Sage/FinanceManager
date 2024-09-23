@@ -53,26 +53,6 @@ The Android APK can be downloaded and installed on your device:
 
 ---
 
-## Screenshots
-
-### Web Dashboard
-
-#### Financial Overview
-![Financial Overview](https://your-screenshot-url.com)
-
-#### Staff Management
-![Staff Management](https://your-screenshot-url.com)
-
-### Android App
-
-#### Transaction Entry
-![Transaction Entry](https://your-screenshot-url.com)
-
-#### Assigned Projects
-![Assigned Projects](https://your-screenshot-url.com)
-
----
-
 ## Security and Privacy
 
 - **Authentication**: Both the web dashboard and Android app use Firebase Authentication to ensure secure login for admins, managers, and staff.
@@ -80,13 +60,3 @@ The Android APK can be downloaded and installed on your device:
 - **Error Handling**: Comprehensive error handling and logging are implemented to provide secure, efficient operations.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
