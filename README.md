@@ -49,7 +49,7 @@ Note: web dashboard needs to be refreshed once after logging in for the first ti
 ### Android App
 The Android APK can be downloaded and installed on your device:
 
-[**Download APK**](https://your-apk-download-url.com)
+[**Download APK**]([https://your-apk-download-url.com](https://github.com/Last-Sage/FinanceManager/releases/tag/v0.5.0-alpha))
 
 ---
 
