@@ -1,6 +1,6 @@
-# Construction Financial Management System
+# Financial Management System
 
-A comprehensive web and mobile solution designed for small and medium-sized enterprises in the construction industry. This system helps track financial transactions, manage staff, and oversee projects effectively through a **Web Dashboard** for admins and managers, and an **Android App** for field staff and managers.
+A comprehensive web and mobile solution designed for small and medium-sized enterprises in the construction industry, which can be easily adapted to any sector. This system helps track financial transactions, manage staff, and oversee projects effectively through a **Web Dashboard** for admins and managers, and an **Android App** for field staff and managers.
 
 ---
 
